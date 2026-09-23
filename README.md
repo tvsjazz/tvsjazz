@@ -6,9 +6,9 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 **Atuação:** Desenvolvimento e manutenção de sistemas corporativos na **MJV** (ou sua empresa atual)
+- 🔭 **Atuação:** Desenvolvimento e manutenção de sistemas corporativos
 - 💼 **Foco:** Arquitetura de Software, Clean Code, Microserviços e performance Web
-- 🌱 **Atualmente aprofundando em:** [Ex: Cloud (AWS/Azure), Docker, Kubernetes, Testes Automatizados, Kafka, etc.]
+- 🌱 **Atualmente aprofundando em:** [Ex: Cloud AWS, Docker, Kubernetes, Testes Automatizados, Kafka, etc.]
 - 💬 **Pode me perguntar sobre:** Java, Spring Framework, Angular, TypeScript e APIs RESTful
 - ⚡ **Fun Fact:** Fã incondicional do Metallica 🎸
 
